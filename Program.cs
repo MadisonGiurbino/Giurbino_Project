@@ -47,10 +47,7 @@ void CreateDog()
         Console.WriteLine("You can not buy a fish");
     }
     Console.WriteLine("Dogs : ");
-    foreach (Dog dog in dog)
-    {
-        Console.WriteLine("");
-    }
+    foreach (dog dog in dog);
 
 }
 
@@ -69,7 +66,7 @@ void CreateCat()
 
     else if (selection == 2)
     {
-        cat.Add(new Cat);
+        cats.Add(new cat);
         Console.WriteLine("You have obtained a cat");
     }
     else
@@ -77,7 +74,6 @@ void CreateCat()
         Console.WriteLine("You can not buy a fish");
     }
     Console.WriteLine("Cats : ");
-    foreach (Cat cat in cat) ;
 
 }
 
