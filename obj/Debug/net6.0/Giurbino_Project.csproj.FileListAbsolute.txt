@@ -1,0 +1,15 @@
+C:\Users\26giurbino3846\source\repos\Giurbino_Project\Giurbino_Project\obj\Debug\net6.0\Giurbino_Project.csproj.AssemblyReference.cache
+C:\Users\26giurbino3846\source\repos\Giurbino_Project\Giurbino_Project\obj\Debug\net6.0\Giurbino_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\26giurbino3846\source\repos\Giurbino_Project\Giurbino_Project\obj\Debug\net6.0\Giurbino_Project.AssemblyInfoInputs.cache
+C:\Users\26giurbino3846\source\repos\Giurbino_Project\Giurbino_Project\obj\Debug\net6.0\Giurbino_Project.AssemblyInfo.cs
+C:\Users\26giurbino3846\source\repos\Giurbino_Project\Giurbino_Project\obj\Debug\net6.0\Giurbino_Project.csproj.CoreCompileInputs.cache
+C:\Users\26giurbino3846\source\repos\Giurbino_Project\Giurbino_Project\bin\Debug\net6.0\Giurbino_Project.exe
+C:\Users\26giurbino3846\source\repos\Giurbino_Project\Giurbino_Project\bin\Debug\net6.0\Giurbino_Project.deps.json
+C:\Users\26giurbino3846\source\repos\Giurbino_Project\Giurbino_Project\bin\Debug\net6.0\Giurbino_Project.runtimeconfig.json
+C:\Users\26giurbino3846\source\repos\Giurbino_Project\Giurbino_Project\bin\Debug\net6.0\Giurbino_Project.dll
+C:\Users\26giurbino3846\source\repos\Giurbino_Project\Giurbino_Project\bin\Debug\net6.0\Giurbino_Project.pdb
+C:\Users\26giurbino3846\source\repos\Giurbino_Project\Giurbino_Project\obj\Debug\net6.0\Giurbino_Project.dll
+C:\Users\26giurbino3846\source\repos\Giurbino_Project\Giurbino_Project\obj\Debug\net6.0\refint\Giurbino_Project.dll
+C:\Users\26giurbino3846\source\repos\Giurbino_Project\Giurbino_Project\obj\Debug\net6.0\Giurbino_Project.pdb
+C:\Users\26giurbino3846\source\repos\Giurbino_Project\Giurbino_Project\obj\Debug\net6.0\Giurbino_Project.genruntimeconfig.cache
+C:\Users\26giurbino3846\source\repos\Giurbino_Project\Giurbino_Project\obj\Debug\net6.0\ref\Giurbino_Project.dll
